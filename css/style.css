@@ -30,6 +30,10 @@ header {
     align-items: center;
     gap: 10px;
 }
+header h1{
+    font-size: 30px;
+}
+
 
 form {
     width: 100%;
