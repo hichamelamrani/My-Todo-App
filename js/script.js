@@ -75,7 +75,10 @@ getData();
 
 
 const addBtn = document.getElementById("addBtn");
-addBtn.addEventListner
+addBtn.addEventListener("click",{
+
+});
+
 const setData = () => {
 
 }
